@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T09:01:19Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1388
+            "stars": 1389
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-18T03:48:21Z",
+            "last_commit": "2026-08-13T04:38:50Z",
             "owner": "shieldyguy",
             "repo": "stm32-mcp",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:37.819Z",
+    "last_updated": "2026-08-13T08:27:14.643Z",
     "original_repository": "beriberikix/awesome-mcp-hardware",
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",

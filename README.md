@@ -6,7 +6,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 
 ## Servers
 
-* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,388 | 🐛 61 | 🌐 Python | 📅 2026-08-12 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,389 | 🐛 61 | 🌐 Python | 📅 2026-08-12 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 * [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) ⭐ 371 | 🐛 5 | 🌐 Python | 📅 2024-12-29 - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
 * [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 176 | 🐛 7 | 🌐 Python | 📅 2025-03-21 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
 * [tinymcp](https://github.com/golioth/tinymcp) ⭐ 152 | 🐛 3 | 🌐 Go | 📅 2025-07-03 - Let LLMs control embedded devices via the Model Context Protocol.
@@ -16,7 +16,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 * [kicad-sch-api](https://github.com/circuit-synth/kicad-sch-api) ⭐ 49 | 🐛 13 | 🌐 Python | 📅 2025-12-05 - Python library for reading and writing KiCAD schematic files.
 * [opcua-mcp](https://github.com/kukapay/opcua-mcp) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2025-10-29 - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 * [modbus-mcp](https://github.com/kukapay/modbus-mcp) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2025-05-12 - An MCP server that standardizes and contextualizes Modbus data, enabling seamless integration of AI agents with industrial IoT systems.
-* [stm32-mcp](https://github.com/shieldyguy/stm32-mcp) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-07-18 - Build, flash, and communicate with STM32 hardware over SWD and serial.
+* [stm32-mcp](https://github.com/shieldyguy/stm32-mcp) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - Build, flash, and communicate with STM32 hardware over SWD and serial.
 * [scope-mcp](https://github.com/Netlist-Studio/scope-mcp) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-02-23 - An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code ([video](https://youtu.be/9oMwjWW3wsg?si=dA5nZt-vqYsQWq16).)
 * [PocketMCP](https://github.com/axonixtools/PocketMCP) ⭐ 10 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-03 - Turns your Android phone into an MCP server for live data and actions.
 * [sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-26 - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.
