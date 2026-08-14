@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T09:01:19Z",
+            "last_commit": "2026-08-13T09:03:06Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1389
+            "stars": 1392
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-12-29T04:12:38Z",
             "owner": "mcp2everything",
             "repo": "mcp2mqtt",
-            "stars": 371
+            "stars": 370
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-16T12:50:13Z",
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 143
+            "stars": 145
           }
         },
         {
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:27:14.643Z",
+    "last_updated": "2026-08-14T08:23:03.976Z",
     "original_repository": "beriberikix/awesome-mcp-hardware",
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
