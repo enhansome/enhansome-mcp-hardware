@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:03:06Z",
+            "last_commit": "2026-08-14T08:58:36Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
             "stars": 1392
@@ -42,7 +42,7 @@
             "last_commit": "2025-03-21T18:48:11Z",
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-16T12:50:13Z",
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-04-26T15:57:50Z",
             "owner": "octoco-ltd",
             "repo": "sheetsdata-mcp",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:23:03.976Z",
+    "last_updated": "2026-08-15T07:37:18.803Z",
     "original_repository": "beriberikix/awesome-mcp-hardware",
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
