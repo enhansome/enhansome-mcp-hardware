@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:58:36Z",
+            "last_commit": "2026-08-15T08:15:28Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1392
+            "stars": 1394
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-03-21T18:48:11Z",
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -89,20 +89,6 @@
         },
         {
           "node_type": "item",
-          "title": "mcp2serial",
-          "description": "A open-source library enabling AI models to control hardware devices via serial communication using the MCP protocol. Initial support for Raspberry Pi Pico.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-19T08:49:31Z",
-            "owner": "mcp2everything",
-            "repo": "mcp2serial",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
           "title": "kicad-sch-api",
           "description": "Python library for reading and writing KiCAD schematic files.",
           "children": [],
@@ -112,6 +98,20 @@
             "last_commit": "2025-12-05T05:39:17Z",
             "owner": "circuit-synth",
             "repo": "kicad-sch-api",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp2serial",
+          "description": "A open-source library enabling AI models to control hardware devices via serial communication using the MCP protocol. Initial support for Raspberry Pi Pico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T08:49:31Z",
+            "owner": "mcp2everything",
+            "repo": "mcp2serial",
             "stars": 49
           }
         },
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-03T21:45:26Z",
+            "last_commit": "2026-08-15T08:50:57Z",
             "owner": "axonixtools",
             "repo": "PocketMCP",
             "stars": 10
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:37:18.803Z",
+    "last_updated": "2026-08-16T07:38:00.106Z",
     "original_repository": "beriberikix/awesome-mcp-hardware",
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
