@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:15:28Z",
+            "last_commit": "2026-08-16T08:17:05Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1394
+            "stars": 1397
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-16T12:50:13Z",
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-13T04:38:50Z",
             "owner": "shieldyguy",
             "repo": "stm32-mcp",
-            "stars": 22
+            "stars": 21
           }
         },
         {
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:38:00.106Z",
+    "last_updated": "2026-08-17T07:57:00.034Z",
     "original_repository": "beriberikix/awesome-mcp-hardware",
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
