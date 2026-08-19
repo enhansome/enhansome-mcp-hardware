@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964371379,
             "language": "Python",
-            "last_commit": "2026-08-17T08:31:36Z",
+            "last_commit": "2026-08-18T08:23:53Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1400
+            "stars": 1404
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 909553887,
             "language": "Python",
             "last_commit": "2024-12-29T04:12:38Z",
             "owner": "mcp2everything",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 952239525,
             "language": "Python",
             "last_commit": "2025-03-21T18:48:11Z",
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012470975,
             "language": "Go",
             "last_commit": "2025-07-03T12:38:58Z",
             "owner": "golioth",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032495027,
             "language": "Rust",
             "last_commit": "2026-07-16T12:50:13Z",
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1065034627,
             "language": "Python",
             "last_commit": "2026-04-25T19:16:44Z",
             "owner": "2015xli",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1037658920,
             "language": "Python",
             "last_commit": "2025-12-05T05:39:17Z",
             "owner": "circuit-synth",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 903646277,
             "language": "Python",
             "last_commit": "2024-12-19T08:49:31Z",
             "owner": "mcp2everything",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954106297,
             "language": "Python",
             "last_commit": "2025-10-29T23:52:25Z",
             "owner": "kukapay",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 974291154,
             "language": "Python",
             "last_commit": "2025-05-12T07:11:37Z",
             "owner": "kukapay",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1168636947,
             "language": "Python",
             "last_commit": "2026-08-13T04:38:50Z",
             "owner": "shieldyguy",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1165120051,
             "language": "Python",
             "last_commit": "2026-02-23T21:06:41Z",
             "owner": "Netlist-Studio",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161611978,
             "language": "Kotlin",
             "last_commit": "2026-08-15T08:50:57Z",
             "owner": "axonixtools",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186352167,
             "language": "JavaScript",
             "last_commit": "2026-04-26T15:57:50Z",
             "owner": "octoco-ltd",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906909180,
             "language": "Python",
             "last_commit": "2024-12-29T09:37:04Z",
             "owner": "mcp2everything",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202486372,
             "language": "Python",
             "last_commit": "2026-04-15T04:27:04Z",
             "owner": "SWITCHSCIENCE",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 976084571,
             "language": "Python",
             "last_commit": "2025-05-03T19:50:53Z",
             "owner": "UnitApi",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177174567,
             "language": "Python",
             "last_commit": "2026-03-09T19:13:54Z",
             "owner": "hsoffar",
@@ -262,36 +280,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083715033,
             "language": "Python",
             "last_commit": "2025-10-26T15:29:42Z",
             "owner": "parkerdorris",
             "repo": "MCP_BluetoothScanner",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "xds110_mcp_server",
-          "description": "Generic Debugging Interface for ANY Texas Instruments CCS Project.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "IoT-Edge-MCP-Server",
-          "description": "MCP server for Industrial IoT, SCADA and PLC systems.",
-          "children": []
         }
       ],
       "title": "Servers"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:45:41.425Z",
+    "last_updated": "2026-08-19T07:46:14.029Z",
     "original_repository": "beriberikix/awesome-mcp-hardware",
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
