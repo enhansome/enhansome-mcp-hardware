@@ -12,10 +12,10 @@
             "archived": false,
             "id": 964371379,
             "language": "Python",
-            "last_commit": "2026-08-25T08:30:21Z",
+            "last_commit": "2026-08-26T08:31:12Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1413
+            "stars": 1414
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-16T12:50:13Z",
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 161
+            "stars": 165
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-25T19:16:44Z",
             "owner": "2015xli",
             "repo": "clangd-graph-rag",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -293,9 +293,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:52:28.275Z",
-    "original_repository": "beriberikix/awesome-mcp-hardware",
-    "original_repository_id": 1091458225,
+    "last_updated": "2026-08-27T11:51:44.016Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1091458225,
+      "language": null,
+      "last_commit": "2026-04-17T16:49:50Z",
+      "owner": "beriberikix",
+      "repo": "awesome-mcp-hardware",
+      "stars": 51
+    },
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
     "enhanced_repository_description": null,
