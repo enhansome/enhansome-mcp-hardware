@@ -12,11 +12,12 @@
             "archived": false,
             "id": 964371379,
             "language": "Python",
-            "last_commit": "2026-08-26T08:31:12Z",
+            "last_commit": "2026-08-27T18:38:45Z",
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1415
-          }
+            "stars": 1417
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mcp2everything",
             "repo": "mcp2mqtt",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-16T12:50:13Z",
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 165
-          }
+            "stars": 167
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2025-07-03T12:38:58Z",
             "owner": "golioth",
             "repo": "tinymcp",
-            "stars": 152
-          }
+            "stars": 153
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "2015xli",
             "repo": "clangd-graph-rag",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "circuit-synth",
             "repo": "kicad-sch-api",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mcp2everything",
             "repo": "mcp2serial",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "kukapay",
             "repo": "opcua-mcp",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2025-05-12T07:11:37Z",
             "owner": "kukapay",
             "repo": "modbus-mcp",
-            "stars": 26
-          }
+            "stars": 25
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2026-08-13T04:38:50Z",
             "owner": "shieldyguy",
             "repo": "stm32-mcp",
-            "stars": 21
-          }
+            "stars": 22
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2026-08-15T08:50:57Z",
             "owner": "axonixtools",
             "repo": "PocketMCP",
-            "stars": 11
-          }
+            "stars": 12
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "Netlist-Studio",
             "repo": "scope-mcp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "octoco-ltd",
             "repo": "sheetsdata-mcp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mcp2everything",
             "repo": "mcp2tcp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "SWITCHSCIENCE",
             "repo": "mcp-micropython-bridge",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "UnitApi",
             "repo": "mcp",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "hsoffar",
             "repo": "saleae-logic2-mcp",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         },
         {
           "node_type": "item",
@@ -286,14 +304,15 @@
             "owner": "parkerdorris",
             "repo": "MCP_BluetoothScanner",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
         }
       ],
       "title": "Servers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:13:19.251Z",
+    "last_updated": "2026-08-28T19:22:47.899Z",
     "original_repository_info": {
       "archived": false,
       "id": 1091458225,
