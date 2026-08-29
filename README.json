@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect AI models like Claude & GPT with robots using MCP and ROS.",
+            "homepage": "https://robotmcp.ai",
             "id": 964371379,
             "language": "Python",
-            "last_commit": "2026-08-27T18:38:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:47:16Z",
+            "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1417
+            "stars": 1417,
+            "topics": [
+              "mcp",
+              "mcp-server",
+              "modelcontextprotocol",
+              "ros",
+              "ros-mcp-server",
+              "ros2",
+              "ros2-mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "本项目通过将 MCP 协议转换为 MQTT 协议，我们能够利用强大的大型语言模型（LLMs），就能轻松操控您的智能家居、机器人或其他硬件设备。",
+            "homepage": null,
             "id": 909553887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-29T04:12:38Z",
+            "open_issues": 5,
             "owner": "mcp2everything",
             "repo": "mcp2mqtt",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Devin's attempt at creating an OpenSCAD MCP Server that takes a user prompt and generates a preview image and 3d file.",
+            "homepage": null,
             "id": 952239525,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-21T18:48:11Z",
+            "open_issues": 7,
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -58,12 +81,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis",
+            "homepage": null,
             "id": 1032495027,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-16T12:50:13Z",
+            "open_issues": 1,
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "ai-skill",
+              "arm-cortex-m",
+              "claude-code",
+              "claude-code-skill",
+              "claude-skill",
+              "cli",
+              "codex-skill",
+              "debug-probe",
+              "embedded-debugging",
+              "embedded-systems",
+              "esp32",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "openocd",
+              "probe-rs",
+              "riscv",
+              "rust",
+              "skill",
+              "xtensa"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -74,12 +123,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let LLMs control embedded devices via the Model Context Protocol.",
+            "homepage": "https://blog.golioth.io/tinymcp-unlocking-the-physical-world-for-llms-with-mcp-and-microcontrollers",
             "id": 1012470975,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-03T12:38:58Z",
+            "open_issues": 3,
             "owner": "golioth",
             "repo": "tinymcp",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "hardware",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -90,12 +149,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code graph RAG (GraphRAG) for C/C++ development based on clang/clangd",
+            "homepage": null,
             "id": 1065034627,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-25T19:16:44Z",
+            "open_issues": 0,
             "owner": "2015xli",
             "repo": "clangd-graph-rag",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "adk",
+              "clang",
+              "clangd",
+              "code-graph",
+              "coding-agents",
+              "graphrag",
+              "knowlege-graph",
+              "llm-rag",
+              "mcp",
+              "rag",
+              "source-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -106,12 +182,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API for manipulating sexpr in KiCAD schematic editor",
+            "homepage": null,
             "id": 1037658920,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-05T05:39:17Z",
+            "open_issues": 13,
             "owner": "circuit-synth",
             "repo": "kicad-sch-api",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "automation",
+              "circuits",
+              "circuits-as-code",
+              "eda",
+              "kicad",
+              "mcp",
+              "python",
+              "sexpression-language",
+              "sexpression-library"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -122,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A open-source library enabling AI models to control hardware devices via serial communication using the MCP protocol.  Initial support for Raspberry Pi Pico.",
+            "homepage": null,
             "id": 903646277,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-19T08:49:31Z",
+            "open_issues": 3,
             "owner": "mcp2everything",
             "repo": "mcp2serial",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -138,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server that connects to OPC UA-enabled industrial systems.",
+            "homepage": null,
             "id": 954106297,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-29T23:52:25Z",
+            "open_issues": 4,
             "owner": "kukapay",
             "repo": "opcua-mcp",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -154,12 +255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server that standardizes and contextualizes industrial Modbus data.",
+            "homepage": null,
             "id": 974291154,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-12T07:11:37Z",
+            "open_issues": 0,
             "owner": "kukapay",
             "repo": "modbus-mcp",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -170,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "build, flash, debug stm32 projects",
+            "homepage": null,
             "id": 1168636947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T04:38:50Z",
+            "open_issues": 1,
             "owner": "shieldyguy",
             "repo": "stm32-mcp",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -186,12 +297,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your Android phone into an MCP (Model Context Protocol) server. AI agents and desktop scripts can call your phone for live data and actions over LAN.",
+            "homepage": null,
             "id": 1161611978,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-15T08:50:57Z",
+            "open_issues": 0,
             "owner": "axonixtools",
             "repo": "PocketMCP",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "accessibility-service",
+              "agentic-ai",
+              "ai-agent",
+              "ai-tools",
+              "android",
+              "android-automation",
+              "automation",
+              "developer-tools",
+              "json-rpc",
+              "ktor",
+              "mcp",
+              "mobile-automation",
+              "model-context-protocol",
+              "notification-listener",
+              "open-source",
+              "phone-automation",
+              "pocketmcp",
+              "python-client",
+              "self-hosted",
+              "voice-transcription"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -202,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude.",
+            "homepage": null,
             "id": 1165120051,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-23T21:06:41Z",
+            "open_issues": 0,
             "owner": "Netlist-Studio",
             "repo": "scope-mcp",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -218,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sheetsdata-mcp",
+            "homepage": null,
             "id": 1186352167,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-26T15:57:50Z",
+            "open_issues": 0,
             "owner": "octoco-ltd",
             "repo": "sheetsdata-mcp",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -234,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conenct TCP device to LLMs via MCP protocol ",
+            "homepage": null,
             "id": 906909180,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-29T09:37:04Z",
+            "open_issues": 1,
             "owner": "mcp2everything",
             "repo": "mcp2tcp",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -250,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial",
+            "homepage": null,
             "id": 1202486372,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-15T04:27:04Z",
+            "open_issues": 0,
             "owner": "SWITCHSCIENCE",
             "repo": "mcp-micropython-bridge",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -266,12 +423,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive library for secure hardware control through the Model Context Protocol (MCP), enabling AI agents and automated systems to interact with physical devices.",
+            "homepage": "https://unitapi.github.io/mcp/",
             "id": 976084571,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-03T19:50:53Z",
+            "open_issues": 0,
             "owner": "UnitApi",
             "repo": "mcp",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "automation",
+              "hardware",
+              "mcp",
+              "pc",
+              "rpi"
+            ]
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -282,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1177174567,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-09T19:13:54Z",
+            "open_issues": 0,
             "owner": "hsoffar",
             "repo": "saleae-logic2-mcp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -298,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple POC to test out local MCP tool usage through remote LLMs",
+            "homepage": null,
             "id": 1083715033,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-26T15:29:42Z",
+            "open_issues": 0,
             "owner": "parkerdorris",
             "repo": "MCP_BluetoothScanner",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         }
@@ -312,15 +490,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:22:47.899Z",
+    "last_updated": "2026-08-29T05:06:33.526Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
+      "homepage": null,
       "id": 1091458225,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-04-17T16:49:50Z",
+      "open_issues": 5,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
-      "stars": 51
+      "stars": 51,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "model-context-protocol"
+      ]
     },
     "original_repository_sha": "50e72818ac70be677fe9c982abba2d77bb97925c",
     "enhanced_repository": "enhansome/enhansome-mcp-hardware",
