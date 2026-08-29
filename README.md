@@ -6,9 +6,9 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 
 ## Servers
 
-* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,417 | 🐛 61 | 🌐 Python | 📅 2026-08-28 - Connect AI models like Claude & GPT with robots using MCP and ROS.
-* [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) ⭐ 370 | 🐛 5 | 🌐 Python | 📅 2024-12-29 - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
-* [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2025-03-21 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
+* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,418 | 🐛 61 | 🌐 Python | 📅 2026-08-28 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) ⭐ 371 | 🐛 5 | 🌐 Python | 📅 2024-12-29 - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
+* [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2025-03-21 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
 * [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) ⭐ 167 | 🐛 1 | 🌐 Rust | 📅 2026-07-16 - A MCP server for embedded debugging with probe-rs.
 * [tinymcp](https://github.com/golioth/tinymcp) ⭐ 153 | 🐛 3 | 🌐 Go | 📅 2025-07-03 - Let LLMs control embedded devices via the Model Context Protocol.
 * [clangd-graph-rag](https://github.com/2015xli/clangd-graph-rag) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-04-25 - Source code graph RAG (GraphRAG) for C/C++ software.
@@ -17,7 +17,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 * [opcua-mcp](https://github.com/kukapay/opcua-mcp) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2025-10-29 - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 * [modbus-mcp](https://github.com/kukapay/modbus-mcp) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-05-12 - An MCP server that standardizes and contextualizes Modbus data, enabling seamless integration of AI agents with industrial IoT systems.
 * [stm32-mcp](https://github.com/shieldyguy/stm32-mcp) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - Build, flash, and communicate with STM32 hardware over SWD and serial.
-* [PocketMCP](https://github.com/axonixtools/PocketMCP) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-15 - Turns your Android phone into an MCP server for live data and actions.
+* [PocketMCP](https://github.com/axonixtools/PocketMCP) ⭐ 13 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-15 - Turns your Android phone into an MCP server for live data and actions.
 * [scope-mcp](https://github.com/Netlist-Studio/scope-mcp) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-02-23 - An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code ([video](https://youtu.be/9oMwjWW3wsg?si=dA5nZt-vqYsQWq16).)
 * [sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-26 - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.
 * [mcp2tcp](https://github.com/mcp2everything/mcp2tcp) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-12-29 - Conenct TCP device to LLMs via MCP protocol.
