@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T12:23:44Z",
+            "last_commit": "2026-09-03T12:21:40Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1431,
+            "stars": 1432,
             "topics": [
               "mcp",
               "mcp-server",
@@ -90,7 +90,7 @@
             "open_issues": 1,
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 171,
+            "stars": 175,
             "topics": [
               "ai-skill",
               "arm-cortex-m",
@@ -334,6 +334,27 @@
         },
         {
           "node_type": "item",
+          "title": "sheetsdata-mcp",
+          "description": "Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "sheetsdata-mcp",
+            "homepage": null,
+            "id": 1186352167,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-04-26T15:57:50Z",
+            "open_issues": 0,
+            "owner": "octoco-ltd",
+            "repo": "sheetsdata-mcp",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
+        },
+        {
+          "node_type": "item",
           "title": "scope-mcp",
           "description": "An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code (video.)",
           "children": [],
@@ -355,21 +376,21 @@
         },
         {
           "node_type": "item",
-          "title": "sheetsdata-mcp",
-          "description": "Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.",
+          "title": "mcp-micropython-bridge",
+          "description": "(Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "sheetsdata-mcp",
+            "description": "MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial",
             "homepage": null,
-            "id": 1186352167,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-04-26T15:57:50Z",
+            "id": 1202486372,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-15T04:27:04Z",
             "open_issues": 0,
-            "owner": "octoco-ltd",
-            "repo": "sheetsdata-mcp",
-            "stars": 10,
+            "owner": "SWITCHSCIENCE",
+            "repo": "mcp-micropython-bridge",
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -390,27 +411,6 @@
             "open_issues": 1,
             "owner": "mcp2everything",
             "repo": "mcp2tcp",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:22:47.899Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mcp-micropython-bridge",
-          "description": "(Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial",
-            "homepage": null,
-            "id": 1202486372,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-15T04:27:04Z",
-            "open_issues": 0,
-            "owner": "SWITCHSCIENCE",
-            "repo": "mcp-micropython-bridge",
             "stars": 8,
             "topics": []
           },
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:03:04.141Z",
+    "last_updated": "2026-09-04T12:04:54.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
