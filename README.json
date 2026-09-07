@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T11:28:58Z",
+            "last_commit": "2026-09-06T11:50:06Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1433,
+            "stars": 1437,
             "topics": [
               "mcp",
               "mcp-server",
@@ -64,12 +64,12 @@
             "homepage": null,
             "id": 952239525,
             "language": "Python",
-            "license": null,
-            "last_commit": "2025-03-21T18:48:11Z",
-            "open_issues": 7,
+            "license": "MIT",
+            "last_commit": "2026-09-07T12:38:57Z",
+            "open_issues": 2,
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 188,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -90,7 +90,7 @@
             "open_issues": 2,
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "ai-skill",
               "arm-cortex-m",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "axonixtools",
             "repo": "PocketMCP",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "accessibility-service",
               "agentic-ai",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:36:54.442Z",
+    "last_updated": "2026-09-07T13:27:10.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
@@ -502,7 +502,7 @@
       "open_issues": 5,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
-      "stars": 51,
+      "stars": 52,
       "topics": [
         "awesome",
         "awesome-list",
