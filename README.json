@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T12:23:59Z",
+            "last_commit": "2026-09-09T12:34:26Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1445,
+            "stars": 1446,
             "topics": [
               "mcp",
               "mcp-server",
@@ -132,7 +132,7 @@
             "open_issues": 3,
             "owner": "golioth",
             "repo": "tinymcp",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "hardware",
               "mcp",
@@ -250,6 +250,27 @@
         },
         {
           "node_type": "item",
+          "title": "stm32-mcp",
+          "description": "Build, flash, and communicate with STM32 hardware over SWD and serial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "build, flash, debug stm32 projects",
+            "homepage": null,
+            "id": 1168636947,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-13T04:38:50Z",
+            "open_issues": 2,
+            "owner": "shieldyguy",
+            "repo": "stm32-mcp",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
+        },
+        {
+          "node_type": "item",
           "title": "modbus-mcp",
           "description": "An MCP server that standardizes and contextualizes Modbus data, enabling seamless integration of AI agents with industrial IoT systems.",
           "children": [],
@@ -265,27 +286,6 @@
             "owner": "kukapay",
             "repo": "modbus-mcp",
             "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:22:47.899Z"
-        },
-        {
-          "node_type": "item",
-          "title": "stm32-mcp",
-          "description": "Build, flash, and communicate with STM32 hardware over SWD and serial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "build, flash, debug stm32 projects",
-            "homepage": null,
-            "id": 1168636947,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-13T04:38:50Z",
-            "open_issues": 2,
-            "owner": "shieldyguy",
-            "repo": "stm32-mcp",
-            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:17:14.876Z",
+    "last_updated": "2026-09-10T12:11:09.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
@@ -502,7 +502,7 @@
       "open_issues": 5,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
-      "stars": 53,
+      "stars": 54,
       "topics": [
         "awesome",
         "awesome-list",
