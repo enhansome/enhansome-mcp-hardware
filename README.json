@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T12:27:03Z",
+            "last_commit": "2026-09-12T11:48:15Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1449,
+            "stars": 1448,
             "topics": [
               "mcp",
               "mcp-server",
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "kukapay",
             "repo": "modbus-mcp",
-            "stars": 25,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:34:21.263Z",
+    "last_updated": "2026-09-13T12:40:32.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
