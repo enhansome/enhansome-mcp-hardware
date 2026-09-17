@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T12:59:37Z",
+            "last_commit": "2026-09-16T12:56:47Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1457,
+            "stars": 1458,
             "topics": [
               "mcp",
               "mcp-server",
@@ -49,6 +49,27 @@
             "owner": "mcp2everything",
             "repo": "mcp2mqtt",
             "stars": 371,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSCAD-MCP-Server",
+          "description": "A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Devin's attempt at creating an OpenSCAD MCP Server that takes a user prompt and generates a preview image and 3d file.",
+            "homepage": null,
+            "id": 952239525,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T12:38:57Z",
+            "open_issues": 2,
+            "owner": "jhacksman",
+            "repo": "OpenSCAD-MCP-Server",
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -92,27 +113,6 @@
               "skill",
               "xtensa"
             ]
-          },
-          "first_seen": "2026-08-28T19:22:47.899Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSCAD-MCP-Server",
-          "description": "A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Devin's attempt at creating an OpenSCAD MCP Server that takes a user prompt and generates a preview image and 3d file.",
-            "homepage": null,
-            "id": 952239525,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-07T12:38:57Z",
-            "open_issues": 2,
-            "owner": "jhacksman",
-            "repo": "OpenSCAD-MCP-Server",
-            "stars": 190,
-            "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
         },
@@ -243,7 +243,7 @@
             "open_issues": 4,
             "owner": "kukapay",
             "repo": "opcua-mcp",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "kukapay",
             "repo": "modbus-mcp",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -432,7 +432,7 @@
             "open_issues": 0,
             "owner": "UnitApi",
             "repo": "mcp",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "automation",
               "hardware",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:32:50.640Z",
+    "last_updated": "2026-09-17T12:32:58.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
@@ -502,7 +502,7 @@
       "open_issues": 5,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
-      "stars": 57,
+      "stars": 58,
       "topics": [
         "awesome",
         "awesome-list",
