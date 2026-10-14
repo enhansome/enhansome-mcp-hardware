@@ -6,7 +6,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 
 ## Servers
 
-* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,493 | 🐛 65 | 🌐 Python | 📅 2026-10-12 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,493 | 🐛 65 | 🌐 Python | 📅 2026-10-13 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 * [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) ⭐ 370 | 🐛 5 | 🌐 Python | 📅 2024-12-29 - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
 * [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 206 | 🐛 2 | 🌐 Python | 📅 2026-09-07 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
 * [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) ⭐ 201 | 🐛 1 | 🌐 Rust | 📅 2026-07-16 - A MCP server for embedded debugging with probe-rs.
@@ -18,19 +18,19 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 * [stm32-mcp](https://github.com/shieldyguy/stm32-mcp) ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2026-08-13 - Build, flash, and communicate with STM32 hardware over SWD and serial.
 * [modbus-mcp](https://github.com/kukapay/modbus-mcp) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-05-12 - An MCP server that standardizes and contextualizes Modbus data, enabling seamless integration of AI agents with industrial IoT systems.
 * [PocketMCP](https://github.com/axonixtools/PocketMCP) ⭐ 18 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-15 - Turns your Android phone into an MCP server for live data and actions.
-* [sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.
+* [sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-14 - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.
 * [scope-mcp](https://github.com/Netlist-Studio/scope-mcp) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-02-23 - An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code ([video](https://youtu.be/9oMwjWW3wsg?si=dA5nZt-vqYsQWq16).)
 * [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-04-15 - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 * [mcp2tcp](https://github.com/mcp2everything/mcp2tcp) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-12-29 - Conenct TCP device to LLMs via MCP protocol.
 * [UnitApi](https://github.com/UnitApi/mcp) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-05-03 - A comprehensive library for secure hardware control through the Model Context Protocol (MCP), enabling AI agents and automated systems to interact with physical devices.
-* [saleae-logic2-mcp](https://github.com/hsoffar/saleae-logic2-mcp) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - This project brings Saleae Logic 2 into AI-assisted embedded debugging.
+* [saleae-logic2-mcp](https://github.com/hsoffar/saleae-logic2-mcp) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - This project brings Saleae Logic 2 into AI-assisted embedded debugging.
 * [MCP\_BluetoothScanner](https://github.com/parkerdorris/MCP_BluetoothScanner) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-10-26 - simple POC to test out local MCP tool usage through remote LLMs.
 * [xds110\_mcp\_server](https://github.com/shanemmattner/xds110_mcp_server) - Generic Debugging Interface for ANY Texas Instruments CCS Project.
 * [IoT-Edge-MCP-Server](https://github.com/llm-use/IoT-Edge-MCP-Server) - MCP server for Industrial IoT, SCADA and PLC systems.
 
 ## Clients
 
-* [robot-mcp-client](https://github.com/robotmcp/robot-mcp-client) ⭐ 14 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [robot-mcp-client](https://github.com/robotmcp/robot-mcp-client) ⭐ 14 | 🐛 8 | 🌐 Python | 📅 2026-10-13 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 
 ## Contribute
 
@@ -38,4 +38,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
