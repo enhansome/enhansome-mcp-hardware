@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T13:10:52Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-15T12:57:32Z",
+            "open_issues": 66,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1493,
+            "stars": 1497,
             "topics": [
               "mcp",
               "mcp-server",
@@ -69,7 +69,7 @@
             "open_issues": 2,
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -90,7 +90,7 @@
             "open_issues": 1,
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 202,
+            "stars": 204,
             "topics": [
               "ai-skill",
               "arm-cortex-m",
@@ -302,7 +302,7 @@
             "id": 1161611978,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-08-15T08:50:57Z",
+            "last_commit": "2026-10-15T21:36:52Z",
             "open_issues": 0,
             "owner": "axonixtools",
             "repo": "PocketMCP",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:35:11.748Z",
+    "last_updated": "2026-10-16T12:14:53.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
