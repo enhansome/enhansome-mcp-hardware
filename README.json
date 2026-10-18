@@ -15,7 +15,7 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T12:51:06Z",
+            "last_commit": "2026-10-17T11:51:06Z",
             "open_issues": 67,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
@@ -191,7 +191,7 @@
             "open_issues": 15,
             "owner": "circuit-synth",
             "repo": "kicad-sch-api",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "automation",
               "circuits",
@@ -243,7 +243,7 @@
             "open_issues": 4,
             "owner": "kukapay",
             "repo": "opcua-mcp",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -264,7 +264,7 @@
             "open_issues": 2,
             "owner": "shieldyguy",
             "repo": "stm32-mcp",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -302,7 +302,7 @@
             "id": 1161611978,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-16T20:44:25Z",
+            "last_commit": "2026-10-17T17:13:52Z",
             "open_issues": 0,
             "owner": "axonixtools",
             "repo": "PocketMCP",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:31:56.334Z",
+    "last_updated": "2026-10-18T12:00:58.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
