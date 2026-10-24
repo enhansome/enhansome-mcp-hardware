@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T13:18:36Z",
+            "last_commit": "2026-10-23T12:57:48Z",
             "open_issues": 70,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1504,
+            "stars": 1505,
             "topics": [
               "mcp",
               "mcp-server",
@@ -69,7 +69,7 @@
             "open_issues": 3,
             "owner": "Adancurusul",
             "repo": "embedded-debugger-mcp",
-            "stars": 208,
+            "stars": 210,
             "topics": [
               "ai-skill",
               "arm-cortex-m",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:32:56.965Z",
+    "last_updated": "2026-10-24T11:56:02.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
