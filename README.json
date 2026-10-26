@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T12:20:48Z",
+            "last_commit": "2026-10-25T12:51:21Z",
             "open_issues": 70,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1505,
+            "stars": 1506,
             "topics": [
               "mcp",
               "mcp-server",
@@ -264,7 +264,7 @@
             "open_issues": 2,
             "owner": "shieldyguy",
             "repo": "stm32-mcp",
-            "stars": 26,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -344,8 +344,8 @@
             "id": 1186352167,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T23:14:59Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-26T07:04:05Z",
+            "open_issues": 3,
             "owner": "octoco-ltd",
             "repo": "sheetsdata-mcp",
             "stars": 13,
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:28:21.601Z",
+    "last_updated": "2026-10-26T14:06:00.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
@@ -499,7 +499,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-04-17T16:49:50Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
       "stars": 59,
