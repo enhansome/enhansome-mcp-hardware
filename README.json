@@ -15,11 +15,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T15:38:21Z",
+            "last_commit": "2026-11-04T16:26:35Z",
             "open_issues": 22,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "mcp",
               "mcp-server",
@@ -344,7 +344,7 @@
             "id": 1186352167,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:29:07Z",
+            "last_commit": "2026-11-04T18:17:59Z",
             "open_issues": 6,
             "owner": "octoco-ltd",
             "repo": "sheetsdata-mcp",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:19:07.636Z",
+    "last_updated": "2026-11-05T15:20:47.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
