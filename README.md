@@ -6,10 +6,10 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 
 ## Servers
 
-* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,519 | 🐛 23 | 🌐 Python | 📅 2026-11-08 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,519 | 🐛 23 | 🌐 Python | 📅 2026-11-09 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 * [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) ⭐ 372 | 🐛 5 | 🌐 Python | 📅 2024-12-29 - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
-* [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) ⭐ 216 | 🐛 3 | 🌐 Rust | 📅 2026-07-16 - A MCP server for embedded debugging with probe-rs.
-* [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 215 | 🐛 2 | 🌐 Python | 📅 2026-09-07 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
+* [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) ⭐ 217 | 🐛 3 | 🌐 Rust | 📅 2026-07-16 - A MCP server for embedded debugging with probe-rs.
+* [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 216 | 🐛 2 | 🌐 Python | 📅 2026-09-07 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
 * [tinymcp](https://github.com/golioth/tinymcp) ⭐ 158 | 🐛 3 | 🌐 Go | 📅 2025-07-03 - Let LLMs control embedded devices via the Model Context Protocol.
 * [clangd-graph-rag](https://github.com/2015xli/clangd-graph-rag) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-04-25 - Source code graph RAG (GraphRAG) for C/C++ software.
 * [kicad-sch-api](https://github.com/circuit-synth/kicad-sch-api) ⭐ 57 | 🐛 15 | 🌐 Python | 📅 2025-12-05 - Python library for reading and writing KiCAD schematic files.
@@ -38,4 +38,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
