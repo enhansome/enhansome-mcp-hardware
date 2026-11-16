@@ -15,7 +15,7 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T14:38:31Z",
+            "last_commit": "2026-11-15T15:06:13Z",
             "open_issues": 24,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "axonixtools",
             "repo": "PocketMCP",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "accessibility-service",
               "agentic-ai",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:39:08.743Z",
+    "last_updated": "2026-11-16T16:55:48.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
@@ -499,7 +499,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-04-17T16:49:50Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
       "stars": 60,
