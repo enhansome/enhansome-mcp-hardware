@@ -15,8 +15,8 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:19:13Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-18T18:28:41Z",
+            "open_issues": 21,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
             "stars": 1529,
@@ -111,7 +111,7 @@
             "open_issues": 2,
             "owner": "jhacksman",
             "repo": "OpenSCAD-MCP-Server",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -366,7 +366,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-09T08:22:07Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "octoco-ltd",
             "repo": "sheetsdata-mcp",
             "stars": 12,
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:21:03.343Z",
+    "last_updated": "2026-11-19T16:29:08.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
