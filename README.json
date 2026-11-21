@@ -15,7 +15,7 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T16:56:45Z",
+            "last_commit": "2026-11-20T16:30:08Z",
             "open_issues": 22,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
@@ -334,6 +334,27 @@
         },
         {
           "node_type": "item",
+          "title": "sheetsdata-mcp",
+          "description": "Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "sheetsdata-mcp",
+            "homepage": null,
+            "id": 1186352167,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-09T08:22:07Z",
+            "open_issues": 6,
+            "owner": "octoco-ltd",
+            "repo": "sheetsdata-mcp",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:22:47.899Z"
+        },
+        {
+          "node_type": "item",
           "title": "scope-mcp",
           "description": "An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code (video.)",
           "children": [],
@@ -349,27 +370,6 @@
             "owner": "Netlist-Studio",
             "repo": "scope-mcp",
             "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:22:47.899Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sheetsdata-mcp",
-          "description": "Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "sheetsdata-mcp",
-            "homepage": null,
-            "id": 1186352167,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-09T08:22:07Z",
-            "open_issues": 6,
-            "owner": "octoco-ltd",
-            "repo": "sheetsdata-mcp",
-            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T19:22:47.899Z"
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:00:19.773Z",
+    "last_updated": "2026-11-21T15:15:13.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of MCP servers for interacting with hardware and the physical world.",
@@ -502,7 +502,7 @@
       "open_issues": 13,
       "owner": "beriberikix",
       "repo": "awesome-mcp-hardware",
-      "stars": 60,
+      "stars": 61,
       "topics": [
         "awesome",
         "awesome-list",
