@@ -6,7 +6,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 
 ## Servers
 
-* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,537 | 🐛 23 | 🌐 Python | 📅 2026-11-24 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,537 | 🐛 23 | 🌐 Python | 📅 2026-11-25 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 * [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) ⭐ 373 | 🐛 5 | 🌐 Python | 📅 2024-12-29 - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
 * [embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) ⭐ 222 | 🐛 3 | 🌐 Rust | 📅 2026-07-16 - A MCP server for embedded debugging with probe-rs.
 * [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) ⭐ 217 | 🐛 2 | 🌐 Python | 📅 2026-11-17 - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
@@ -30,7 +30,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 
 ## Clients
 
-* [robot-mcp-client](https://github.com/robotmcp/robot-mcp-client) ⭐ 14 | 🐛 8 | 🌐 Python | 📅 2026-11-24 - Connect AI models like Claude & GPT with robots using MCP and ROS.
+* [robot-mcp-client](https://github.com/robotmcp/robot-mcp-client) ⭐ 14 | 🐛 8 | 🌐 Python | 📅 2026-11-25 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 
 ## Contribute
 
@@ -38,4 +38,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
